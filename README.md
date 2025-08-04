@@ -1,7 +1,7 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# moodchanger
+# MOOD DETECTOR
 
 
 ## Basic Details
@@ -9,17 +9,17 @@ https://moodchanger.vercel.app/
 
 
 ### Team Members
-- Team Lead: Adarsh Vijayakumar - mar baselious christian college of engineering and technology
+- : Adarsh Vijayakumar - mar baselious christian college of engineering and technology
 
 
 ### Project Description
-a useless project where youtube song plays opposite to the mood of the user
+It is a very simple project of detecting our mood through a site accesing our face using our camera and play a random music from youtube that opposite to detected mood
 
 ### The Problem (that doesn't exist)
-mood change
+to detect our current mood
 
 ### The Solution (that nobody asked for)
-hear music and change mood completely
+detect our mood through a site and play a random music from youtube that opposite to detected mood.
 
 ## Technical Details
 ### Technologies/Components Used
@@ -35,7 +35,7 @@ pip install fer, cv2,frames ,pywhatkit,flask
 python app.py
 
 ### Project Documentation
-For Software:
+For Software: python , html
 
 # Screenshots (Add at least 3)
 
@@ -47,9 +47,8 @@ https://drive.google.com/drive/folders/1Hmhn8lRh1m-rt9ZEDDKsyMiLqTRdrN-m?usp=sha
 # Video
 https://drive.google.com/drive/folders/1Hmhn8lRh1m-rt9ZEDDKsyMiLqTRdrN-m?usp=sharing
 
-# Additional Demos
-[Add any extra demo materials/links]
-
+### EXPLAINATION VIDEO
+https://drive.google.com/drive/folders/1MwkczKrLkzNA-m6G7lV7tuw8-HCvTCMW
 ## Team Contributions
 -no contributors single person
 ---
